@@ -12,7 +12,9 @@ If you use data from the Jiutian simulations, please include a citation to the o
 ## data product paper
 - [Emission line mock](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.4958P/abstract)
 - [SHAM mock](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.4015G/abstract)
-- [Emulator](https://ui.adsabs.harvard.edu/abs/2025arXiv250211160C/abstract)
+- [Emulator I: matter power spectrum](https://ui.adsabs.harvard.edu/abs/2025SCPMA..6889512C/abstract)
+- [Emulator II: halo mass function](https://ui.adsabs.harvard.edu/abs/2025arXiv250609688C/abstract)
+- [Emulator III: hybrid Lagrangian bias expansion](https://ui.adsabs.harvard.edu/abs/2025arXiv250604671Z/abstract)
 - [Emulator lightcone](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.1205C/abstract)
 - [Reconstruction simulation](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..236L/abstract)
 - [Warm dark matter simulation](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.3156H/abstract)
