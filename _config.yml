@@ -47,6 +47,9 @@ header:
 footer:
   show_powered_by: true
   contact:
+    - type: github
+      name: Edit on GitHub
+      link: https://github.com/Kambrian/JiutianDR
     - type: email
       name: Email
       value: *email
