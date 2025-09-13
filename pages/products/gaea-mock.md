@@ -38,25 +38,21 @@ For the snapshots, we only release one subvolume due to the substantial size of 
 
 The released lightcone catalogs cover z=0 to z=2.5 for Jiutian-1G, and z=2.2 to z=5 for Jiutian-2G.
 
-All released files are in HDF5 format.
+All released files are in HDF5 format. Each catalog contains a large number of files, each of the size of ~1GB. An example shell script is provided to download them in a loop.
 
 - ### [Snapshot - Redshift Table]({{site.baseurl}}/download/CSSTmock/redshift.csv) for Jiutian Simulations
 
 - ### GAEA Galaxy Snapshots
   [Field Description]({{site.baseurl}}/download/CSSTmock/SAM/SAM.md)
 
-  | Simulation               | File List | Download Script |
-  |--------------------------|-----------|-----------------|
-  | **Jiutian-1G Subvolume001** | [Files]({{site.baseurl}}/download/CSSTmock/SAM/M1G/) | [Script]({{site.baseurl}}/download/CSSTmock/SAM/M1G/download_M1G_SAM.sh) |
-  | **Jiutian-2G Subvolume002** | [Files]({{site.baseurl}}/download/CSSTmock/SAM/M2G/) | [Script]({{site.baseurl}}/download/CSSTmock/SAM/M2G/download_M2G_SAM.sh) |
+  | **Jiutian-1G Subvolume001**: | [Files]({{site.baseurl}}/download/CSSTmock/SAM/M1G/) | [Script]({{site.baseurl}}/download/CSSTmock/SAM/M1G/download_M1G_SAM.sh) |
+  | **Jiutian-2G Subvolume002**: | [Files]({{site.baseurl}}/download/CSSTmock/SAM/M2G/) | [Script]({{site.baseurl}}/download/CSSTmock/SAM/M2G/download_M2G_SAM.sh) |
 
 - ### HBT+ Subhalo Snapshots
   [Field Description]({{site.baseurl}}/download/CSSTmock/HBT/HBT.md)
 
-  | Simulation               | File List | Download Script |
-  |--------------------------|-----------|-----------------|
-  | **Jiutian-1G Subvolume001** | [Files]({{site.baseurl}}/download/CSSTmock/HBT/M1G/) | [Script]({{site.baseurl}}/download/CSSTmock/HBT/M1G/download_M1G_HBT.sh) |
-  | **Jiutian-2G Subvolume002** | [Files]({{site.baseurl}}/download/CSSTmock/HBT/M2G/) | [Script]({{site.baseurl}}/download/CSSTmock/HBT/M2G/download_M2G_HBT.sh) |
+  | **Jiutian-1G Subvolume001**: | [Files]({{site.baseurl}}/download/CSSTmock/HBT/M1G/) | [Script]({{site.baseurl}}/download/CSSTmock/HBT/M1G/download_M1G_HBT.sh) |
+  | **Jiutian-2G Subvolume002**: | [Files]({{site.baseurl}}/download/CSSTmock/HBT/M2G/) | [Script]({{site.baseurl}}/download/CSSTmock/HBT/M2G/download_M2G_HBT.sh) |
 
 - ### CSST Deep Field
   **5000 deg² continuous CSST survey field** with deep magnitude limits:
@@ -65,10 +61,8 @@ All released files are in HDF5 format.
     
   [Field Description]({{site.baseurl}}/download/CSSTmock/lightcone/lightcone.md)
 
-  | Simulation     | File List | Download Script |
-  |----------------|-----------|-----------------|
-  | **Jiutian-1G** | [Files]({{site.baseurl}}/download/CSSTmock/lightcone/Deep/M1G/) | [Script]({{site.baseurl}}/download/CSSTmock/lightcone/Deep/M1G/download_M1G_Deep.sh) |
-  | **Jiutian-2G** | [Files]({{site.baseurl}}/download/CSSTmock/lightcone/Deep/M2G/) | [Script]({{site.baseurl}}/download/CSSTmock/lightcone/Deep/M2G/download_M2G_Deep.sh) |
+  | **Jiutian-1G**: | [Files]({{site.baseurl}}/download/CSSTmock/lightcone/Deep/M1G/) | [Script]({{site.baseurl}}/download/CSSTmock/lightcone/Deep/M1G/download_M1G_Deep.sh) |
+  | **Jiutian-2G**: | [Files]({{site.baseurl}}/download/CSSTmock/lightcone/Deep/M2G/) | [Script]({{site.baseurl}}/download/CSSTmock/lightcone/Deep/M2G/download_M2G_Deep.sh) |
 
 - ### CSST Ultra-Deep Field
   **8 × 50 deg² cone CSST survey fields** with ultra-deep magnitude limits:
@@ -78,10 +72,8 @@ All released files are in HDF5 format.
  
    [Field Description]({{site.baseurl}}/download/CSSTmock/lightcone/lightcone.md)
 
-  | Simulation     | File List | Download Script |
-  |----------------|-----------|-----------------|
-  | **Jiutian-1G** | [Files]({{site.baseurl}}/download/CSSTmock/lightcone/Ultradeep/M1G/) | [Script]({{site.baseurl}}/download/CSSTmock/lightcone/Ultradeep/M1G/download_M1G_Ultradeep.sh) |
-  | **Jiutian-2G** | [Files]({{site.baseurl}}/download/CSSTmock/lightcone/Ultradeep/M2G/) | [Script]({{site.baseurl}}/download/CSSTmock/lightcone/Ultradeep/M2G/download_M2G_Ultradeep.sh) |
+  |**Jiutian-1G**:| [Files]({{site.baseurl}}/download/CSSTmock/lightcone/Ultradeep/M1G/)  |   [Script]({{site.baseurl}}/download/CSSTmock/lightcone/Ultradeep/M1G/download_M1G_Ultradeep.sh)|
+  |**Jiutian-2G**: |[Files]({{site.baseurl}}/download/CSSTmock/lightcone/Ultradeep/M2G/)  |  [Script]({{site.baseurl}}/download/CSSTmock/lightcone/Ultradeep/M2G/download_M2G_Ultradeep.sh) |
 
 <a id="contact"></a>   
 ## Contact Information
