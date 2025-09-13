@@ -9,7 +9,7 @@ layout: post
 Those without a link are yet to be released. Please contact a team member (check [references]({{site.baseurl}}/ref)) if you would like to access them.
 
 ## Primary 
-* GAEA lightcone mocks
+* [GAEA lightcone mocks]({{site.baseurl}}/CSSTmock)
 * Emission line mock
 * Lensing mock
 * [SHAM mocks](https://gax.sjtu.edu.cn/data/CSST/CSST.html)
