@@ -9,7 +9,10 @@ layout: post
 Those without a link are yet to be released. Please contact a team member (check [references]({{site.baseurl}}/ref)) if you would like to access them.
 
 ## Primary 
-* [GAEA lightcone mocks]({{site.baseurl}}/gaea-mock)
+* [GAEA-HBT catalogs]({{site.baseurl}}/gaea-hbt), including:
+  - HBT+ subhalos and merger tree
+  - galaxy catalogs from the GAEA semi-analytical model using the HBT+ tree
+  - mock lightcone catalogs of galaxies/subhalos
 * Emission line mock
 * Lensing mock
 * [SHAM mocks](https://gax.sjtu.edu.cn/data/CSST/CSST.html)
