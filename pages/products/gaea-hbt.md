@@ -34,6 +34,7 @@ For more details on the SAM parameters, please refer to [Xie et al. 2020](https:
 ### Contact Information
 
 - [Zhenlin Tan](mailto:zltan999@sjtu.edu.cn) (Shanghai Jiao Tong University)
+- [Lizhi Xie](mailto:xielizhi1988@163.com) (Tianjin Normal University) 
 - [Jiaxin Han](mailto:jiaxin.han@sjtu.edu.cn) (Shanghai Jiao Tong University)
 
 ## Data Access
