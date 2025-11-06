@@ -19,7 +19,7 @@ If you use data from the Jiutian simulations, please include
 - Primary runs
   * [Emission line mock](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.4958P/abstract)
   * [SHAM mock](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.4015G/abstract)
-  * [GAEA-HBT mock](comingsoon...)
+  * [GAEA-HBT mock](https://arxiv.org/abs/2511.03281)
 - Emulator runs
   * [I: matter power spectrum](https://ui.adsabs.harvard.edu/abs/2025SCPMA..6889512C/abstract)
   * [II: halo mass function](https://ui.adsabs.harvard.edu/abs/2025arXiv250609688C/abstract)

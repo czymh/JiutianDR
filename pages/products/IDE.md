@@ -32,9 +32,8 @@ If you find any problem in using the results, please contact Jiajun Zhang for he
 If you use ME-Gadget4 or these data, please cite the following papers:
 
 - [Jiutian overview paper](https://arxiv.org/abs/2503.21368)
-- IDE model and ME-GADGET papers:
-  * https://ui.adsabs.harvard.edu/abs/2019ApJ...875L..11Z/abstract
-  * https://ui.adsabs.harvard.edu/abs/2018PhRvD..98j3530Z/abstract
+- [IDE model paper](https://ui.adsabs.harvard.edu/abs/2019ApJ...875L..11Z/abstract)
+- [ME-GADGET code paper](https://ui.adsabs.harvard.edu/abs/2018PhRvD..98j3530Z/abstract)
 
 
 # Simulations
