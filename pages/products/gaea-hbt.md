@@ -6,7 +6,7 @@ layout: work
 
 ## Overview
 
-The mock catalogs presented here are introduced in the [GAEA mock paper](https://arxiv.org/abs/2511.03281). 
+The mock catalogs presented here are introduced in the [mock paper](https://arxiv.org/abs/2511.03281). 
 
 ### Simulation Specifications
 
