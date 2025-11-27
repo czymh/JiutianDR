@@ -32,6 +32,17 @@ url: "https://jiutian.sjtu.edu.cn" # the base hostname & protocol for your site,
 theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
+  - jekyll-scholar
+
+# jekyll-scholar configuration
+scholar:
+  style: apa
+  locale: en
+  sort_by: year
+  order: descending
+  source: ./_bibliography
+  bibliography: publications.bib
+  #bibliography_template: bib  
 
 destination: ./www
   
@@ -43,6 +54,8 @@ header:
       slug: /data
     - name: References  # <-- whatever.md
       slug: /ref
+    - name: Publications
+      slug: /pub
       
 footer:
   show_powered_by: true
