@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Publications using Jiutian simulations
+#title: Publications using Jiutian simulations
 permalink: /pub/
 ---
+
+## Publications using Jiutian simulations
 
 - <em> Please email us if we are missing your relevant work here.</em>
 
