@@ -18,13 +18,13 @@ Those without a link are yet to be released. Please contact a team member (check
 * [SHAM mocks](https://gax.sjtu.edu.cn/data/CSST/CSST.html)
   
 ## Emulator
-  * [Kun Simulation Doc](https://kunsimulation.readthedocs.io/en/latest/index.html)
+  * [Kun (鲲）Simulation Doc](https://kunsimulation.readthedocs.io/en/latest/index.html)
   * [CSST emulator](https://github.com/czymh/csstemu)
 
 ## Reconstruction
 
 ## Extension
-  * Warm Dark Matter 
+  * Warm Dark Matter （坎离）
   * f(R) gravity
   * [Interacting Dark Energy (IDE)]({{site.baseurl}}/ide)
   * Neutrinos 
